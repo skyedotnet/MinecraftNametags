@@ -1,5 +1,4 @@
 
-Idea by me, mia did literally almost all the work dawg :sob:
 
 # Fixed for BepInEx -Skye
 
