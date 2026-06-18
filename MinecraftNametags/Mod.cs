@@ -13,7 +13,7 @@ using BepInEx;
 
 namespace MinecraftNametags;
 
-[BepInPlugin("com.skye.minecraftnametags", "Minecraft Nametags", "1.0.0")]
+[BepInPlugin("com.skye.minecraftnametags", "Minecraft Nametags", "1.0.1")]
 public class Plugin : BaseUnityPlugin
 {
     public const string SIGNIFICANCE_URL =
